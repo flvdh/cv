@@ -139,7 +139,7 @@ __Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
 Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
 
 
-## Links
+## Contact me
 
 * <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
