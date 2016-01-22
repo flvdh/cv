@@ -1,8 +1,7 @@
 ---
 layout: cv
-title: Curriculum vitae
+title: Curriculum vitae – Freek van der Hulst
 ---
-# Freek van der Hulst
 MSc Economics student at Tilburg University
 
 
@@ -23,7 +22,7 @@ __Van Maerlantlyceum__ Vwo (Atheneum)
 
 ### Methods: Numerical simulation
 
-#### Assignment 1/3
+#### Assignment 1
 
 You are looking at it right now.
 
@@ -38,15 +37,10 @@ You are looking at it right now.
 * Microsoft Office
 
 
-### Contact me
+### Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
-
+* <i class="fa fa-envelope"></i> <a href="mailto:flvdhulst@gmail.com">flvdhulst@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/flvdh">flvdh</a><br />
 
 <!-- ### Footer
 
