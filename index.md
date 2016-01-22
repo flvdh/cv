@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Curriculum vitae
+## Curriculum vitae
 ---
 # Freek van der Hulst
 MSc Economics student at Tilburg University
@@ -10,11 +10,11 @@ MSc Economics student at Tilburg University
 </div>
 
 
-## Profile
+### Profile
 
 MSc Economics student with an interest in market economics and behavioral economics.
 
-## Education
+### Education
 
 `2015-16`
 __Tilburg University__ MSc Economics (track: Competition and Regulation)
@@ -25,14 +25,14 @@ __Tilburg University__ BSc Economics & Business Economics
 `2005-11`
 __Van Maerlantlyceum__ Vwo (Atheneum)
 
-## Presentations
+### Presentations
 
 ### Tutorials
 
 `2014`
 WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
 
-### Talks
+#### Talks
 
 `2015`
 EdinbR: The Edinburgh R usergroup (_various_)
@@ -46,7 +46,7 @@ blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
 
 <!-- Digital Economies 2014 conference (London, UK; declined) -->
 
-### Posters
+#### Posters
 
 `2015`
 _Keystone Epigenomics_ (Keystone CO, USA)
@@ -64,7 +64,7 @@ _Genome informatics_ (CSHL NY, USA)
 _EpiGeneSys_ (Cambridge, UK)
 
 
-## Publications
+### Publications
 
 <!-- ### Journals -->
 
@@ -79,13 +79,13 @@ __Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha 
 `2011`
 Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
 
-## Non-academic
+### Non-academic
 
 `2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
-## Technical skills
+### Technical skills
 
 * R
 * Statistics
@@ -103,20 +103,20 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 * HTML and CSS
 * Javascript
 
-## Projects
+### Projects
 
-### blog
+#### blog
 
 I write a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
 
-### EdinbR
+#### EdinbR
 I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I help to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
 
-### datarea
+#### datarea
 
 I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
 
-## Awards
+### Awards
 
 MRC Capacity building scholarship (PhD fees + enhanced stipend)
 
@@ -132,14 +132,14 @@ Training accreditation for Wikimedia UK, the national chapter of the Wikimedia F
 
 Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
 
-## Placements
+### Placements
 
 `2010-11`
 __Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
 Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
 
 
-## Contact me
+### Contact me
 
 * <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
@@ -148,7 +148,7 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 *  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
 * <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
 
-## References
+### References
 
 Available on request.
 
