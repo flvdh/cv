@@ -1,33 +1,29 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Curriculum vitae
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Freek van der Hulst
+MSc Economics student at Tilburg University
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<a href="mailto:flvdhulst@gmail.com">flvdhulst@gmail.com</a>
 </div>
 
 
-## Currently
+## Profile
 
-I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
+MSc Economics student with an interest in market economics and behavioral economics.
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2015-16`
+__Tilburg University__ MSc Economics (track: Competition and Regulation)
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+`2011-15`
+__Tilburg University__ BSc Economics & Business Economics
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`2005-11`
+__Van Maerlantlyceum__ Vwo (Atheneum)
 
 ## Presentations
 
