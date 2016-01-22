@@ -6,7 +6,7 @@ title: Curriculum vitae
 
 ### Profile
 
-My name is **Freek van der Hulst**, a 22-year old MSc Economics student with an interest in market economics and behavioral economics.
+My name is **Freek van der Hulst**, a 22-year old MSc Economics student with an interest in market economics and behavioral economics. 
 
 ### Education
 
@@ -40,6 +40,7 @@ Actually, you are looking at it right now.
 
 * <i class="fa fa-envelope"></i> <a href="mailto:flvdhulst@gmail.com">flvdhulst@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/flvdh">flvdh</a><br />
+* <i class="fa fa-linkedin"></i> <a href="http://linkedin.com/in/flvdh">flvdh</a><br />
 
 <!-- ### Footer
 
