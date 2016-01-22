@@ -114,6 +114,7 @@ h1,h2,h3,h4 {
 h1 {
 	color: #05AD85;
 	text-align: left;
+	font-style: italic;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;

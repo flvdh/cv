@@ -2,7 +2,8 @@
 layout: cv
 title: Curriculum vitae
 ---
-Freek van der Hulst
+
+*Freek van der Hulst*
 
 
 ### Profile
