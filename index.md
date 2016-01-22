@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Curriculum Vitae
+title: Ben Moore's CV
 ---
-# Freek van der Hulst
-MSc Economics student at Tilburg University
+# Benjamin L. Moore
+Bioinformatics PhD and data scientist
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
@@ -16,18 +16,18 @@ MSc Economics student at Tilburg University
 
 ## Currently
 
-Test
+I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
 
 ## Education
 
-`2015-16`
-__Tilburg University__ MSc Economics: Competition and Regulation
+`2012-15`
+__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
 
-`2011-15`
-__Tilburg University__ BSc Economics and Business Economics 
+`2011-12`
+__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
 
-`2005-11`
-__Van Maerlantlyceum__ Vwo (Atheneum)
+`2008-11`
+__University of York__ BSc Biology (_First class honours_)
 
 ## Presentations
 
@@ -91,18 +91,57 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Technical skills
 
-* Stata
-* Microsoft Office
-* Adobe Photoshop
-* HTML and CSS
+* R
+* Statistics
 * LaTeX
+* Git / Mercurial
+* UNIX
 * Python
+* Machine learning
+* Bash
+* Emacs
+* Inkscape
+* Data visualisation
+* Mediawiki
+* Cluster computing
+* HTML and CSS
+* Javascript
 
 ## Projects
 
-### Blog
+### blog
 
-[offthecharts.nl](http://offthecharts.nl) 
+I write a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
+
+### EdinbR
+I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I help to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+
+### datarea
+
+I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+
+## Awards
+
+MRC Capacity building scholarship (PhD fees + enhanced stipend)
+
+MRC Full postgraduate scholarship (MSc fees + stipend)
+
+ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
+
+Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
+
+Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
+
+Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
+
+Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+
+## Placements
+
+`2010-11`
+__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
+Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+
 
 ## Links
 
