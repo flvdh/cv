@@ -6,7 +6,7 @@ title: Curriculum Vitae
 MSc Economics student at Tilburg University
 
 <div id="webaddress">
-<a href="mailto:flvdhulst@gmail.com">flvdhulst@gmail.com</a>
+<a href="flvdhulst@gmail.com">flvdhulst@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/flvdh">flvdh</a>
 |
@@ -16,7 +16,7 @@ MSc Economics student at Tilburg University
 
 ## Currently
 
--
+Test
 
 ## Education
 
