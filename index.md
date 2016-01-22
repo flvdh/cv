@@ -3,12 +3,10 @@ layout: cv
 title: Curriculum vitae
 ---
 
-*Freek van der Hulst*
-
 
 ### Profile
 
-MSc Economics student with an interest in market economics and behavioral economics.
+My name is **Freek van der Hulst**, a 22-year old MSc Economics student with an interest in market economics and behavioral economics.
 
 ### Education
 
