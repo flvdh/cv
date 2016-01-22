@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Curriculum vitae – Freek van der Hulst
+title: Curriculum vitae
 ---
-MSc Economics student at Tilburg University
+Freek van der Hulst
 
 
 ### Profile
