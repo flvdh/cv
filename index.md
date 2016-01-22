@@ -12,7 +12,7 @@ MSc Economics student at Tilburg University
 
 ### Profile
 
-MSc Economics student with an interest in market economics and behavioral economics.
+AMSc Economics student with an interest in market economics and behavioral economics.
 
 ### Education
 
