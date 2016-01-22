@@ -9,6 +9,8 @@ MSc Economics student at Tilburg University
 <a href="mailto:flvdhulst@gmail.com">flvdhulst@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/flvdh">flvdh</a>
+|
+<i class="fa fa-github"></i> <a href="http://github.com/flvdh">flvdh</a>
 </div>
 
 
