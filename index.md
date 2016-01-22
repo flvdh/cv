@@ -24,7 +24,7 @@ __Van Maerlantlyceum__ Vwo (Atheneum)
 
 #### Assignment 1
 
-You are looking at it right now.
+Actually, you are looking at it right now.
 
 
 ### Technical skills
