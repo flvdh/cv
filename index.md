@@ -21,11 +21,11 @@ __Van Maerlantlyceum__ Vwo (Atheneum)
 
 ### Methods: Numerical simulation
 
-#### Assignment 1
+### Assignment 1
 
 You are looking at it right now.
 
-#### Assignment 2
+### Assignment 2
 
 In progress.
 
