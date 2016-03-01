@@ -23,14 +23,18 @@ __Van Maerlantlyceum__ Vwo (Atheneum)
 
 #### Assignment 1
 
-Actually, you are looking at it right now.
+You are looking at it right now.
+
+#### Assignment 2
+
+In progress.
 
 
 ### Technical skills
 
 * Stata
 * LaTeX
-* Python
+* Python (basics)
 * HTML/CSS
 * Adobe Photoshop
 * Microsoft Office
@@ -44,4 +48,4 @@ Actually, you are looking at it right now.
 
 <!-- ### Footer
 
-Last updated: January 2016 -->
+Last updated: March 2016 -->

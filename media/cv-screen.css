@@ -88,7 +88,7 @@ ul {
 	left: 25%;
 	width: 65%;
 	margin-bottom: 1.5em;
-	margin-top: 0em;
+	margin-top: 1em;
   columns: 3;
   -webkit-columns: 3;
   -moz-columns: 3;
@@ -112,16 +112,16 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #05AD85;
+	color: #fd9544;
 	text-align: left;
-	font-style: italic;
-	font-family: Georgia;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
 	left: 25%;
 	/* padding: .1rem 1rem; */
+  text-shadow: 1px 1px #fff,
+      					1px 2px #ccc;
 }
 
 h1+p {
@@ -134,22 +134,20 @@ h1+p {
 	margin-bottom: 0em !important;
 }
 
-h3 {
-	font-size: 0.8em;
-	text-transform: uppercase;
+h2 {
+	font-size: 1.1em;
 	/* color: #a00; */
 	color: #1D49A0;
 	margin-top: 2em;
 	position: relative;
-	top: 1.8em;
+	top: 1.4em;
 	text-align: right;
 	width: 15%;
 }
 
-h4 {
-	color: #05AD85;
-	font-size: 0.8em;
-	text-transform: uppercase;
+h3 {
+	color: #F07415;
+	font-size: 1em;
 	line-height: 2em;
 	position: relative;
 	top: 1.7em;
