@@ -19,7 +19,7 @@ __Tilburg University__ BSc Economics & Business Economics
 `2005-11`
 __Van Maerlantlyceum__ Vwo (Atheneum)
 
-### Working experience
+### Working experience & other activities
 
 `May-July 2016`
 __ACM (Autoriteit Consument & Markt)__ Intern Energy Department
