@@ -60,6 +60,7 @@ body {
 	font-family: Constantia;
 	margin-top: 1em;
 	margin-left: 1em;
+	color: #333333;
 }
 
 p {
@@ -112,7 +113,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #206951;
+	color: #0DA86A;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -144,7 +145,7 @@ h2 {
 }
 
 h3 {
-	color: #F07415;
+	color: #0DA86A;
 	font-size: 10px;
 	text-transform: uppercase;
 	line-height: 2em;
@@ -155,7 +156,7 @@ h3 {
 	width: 15%;
 }
 h4 {
-	color: #206951;
+	color: #333333;
 	font-size: 10px;
 	text-transform: uppercase;
 	line-height: 2em;
