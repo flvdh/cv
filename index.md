@@ -24,7 +24,7 @@ __Van Maerlantlyceum__ Vwo (Atheneum)
 `May-July 2016`
 __ACM (Autoriteit Consument & Markt)__ Intern Energy Department
 
-`September 2014-present`
+`2014-present`
 __Asset | Economics__ Blog Committee member – responsible for the design, implementation and content of the Asset | Economics blog "Off the Charts".
 
 `2009-2015`
