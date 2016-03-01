@@ -19,6 +19,17 @@ __Tilburg University__ BSc Economics & Business Economics
 `2005-11`
 __Van Maerlantlyceum__ Vwo (Atheneum)
 
+### Working experience
+
+`May-July 2016`
+__ACM (Autoriteit Consument & Markt)__ Intern Energy Department
+
+`September 2014-present`
+__Asset | Economics__ Blog Committee member – responsible for the design, implementation and content of the Asset | Economics blog "Off the Charts".
+
+`2009-2015`
+__Freelance__ Web Developer/Consultant – main activities: front-end web development, SEO consulting and text writing/editing.
+
 ### Methods: Numerical simulation
 
 #### Assignment 1
